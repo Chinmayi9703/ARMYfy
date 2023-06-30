@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+Infant:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,500&display=swap');
+
+
+body{
+    background-color: #EE82EE;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    font-family: 'Ysabeau Infant', sans-serif;
+}
+nav ul{
+    display:flex;
+    align-items: center;
+    list-style-type: none;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+nav ul li{
+    padding: 0 12px;
+}
+.brand img{
+    width: 65px;
+    padding: 0 8px;
+}
+.brand{
+    display: flex;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+.container{
+    min-height: 65vh;
+    background-color: black;
+    color: white;
+    display:flex;
+    margin: 23px auto;
+    width:70%;
+    border-radius: 12px;
+    padding: 34px;
+    background-image: url('images/pbg.jpg');
+}
+
+.bottom{
+    position: sticky;
+    bottom: 0;
+    height: 79px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.icons{
+    margin-top: 14px;
+}
+.icons i{
+    cursor: pointer;
+}
+#myProgressBar{
+    width:80vw;
+    cursor:pointer;
+}
+.apobangpo{
+    height:80%;
+    border-radius: 100px;
+}
+.songItemContainer{
+    margin-top: 14px;
+}
+.songItem{
+    height: 40px;
+    display: flex;
+    background-color: black;
+    color: rgb(192, 111, 192);
+    margin: 12px 0px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 30px;
+}
+.songItem img{
+    width:34px;
+    margin: 0 25px;
+    border-radius: 20px;
+}
+.timeStamp{
+    margin: 0 23px;
+}
+.timeStamp i{
+    cursor: pointer;
+}
+.songInfo{
+    position: absolute;
+    left:10vw;
+    font-family: 'Kanit', serif;
+}
+.songInfo img{
+    opacity: 0;
+    transition: opacity 0.4s ease-in;
+}
+.time{
+    position:absolute;
+    bottom: 60px;
+    right:95px;
+}
+.love{
+    position:absolute;
+    bottom: 525%;
+    left:2px;
+    border-radius: 50px;
+}
+.myboys{
+    position:absolute;
+    bottom: 370%;
+    left:2px;
+    border-radius: 50px;
+}
+.weareone{
+    position:absolute;
+    bottom: 200%;
+    left:2px;
+    border-radius: 100px;
+}
+.oof{
+    position:absolute;
+    bottom: 99%;
+    left:2px;
+    border-radius: 100px;
+}
+.hehe{
+    position:absolute;
+    bottom: 525%;
+    right:2px;
+    border-radius: 100px;
+}
+.runbts{
+    position:absolute;
+    bottom: 390%;
+    right:2px;
+    border-radius: 100px;
+}
+.babies{
+    position:absolute;
+    bottom: 265%;
+    right:2px;
+    border-radius: 100px;
+}
+.haha{
+    position:absolute;
+    bottom: 97%;
+    right:2px;
+    border-radius: 100px;
+}
