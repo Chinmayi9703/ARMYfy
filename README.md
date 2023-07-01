@@ -20,4 +20,4 @@ This project lists the various hits of BTS, where you can listen to them for fre
 3.Javascript
 
 # Screenshots
-![Screenshot of the website's layout]()
+![Screenshot of the website's layout](https://github.com/Chinmayi9703/ARMYfy/blob/main/images/Screenshot.png)
