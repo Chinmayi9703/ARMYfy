@@ -15,9 +15,9 @@ This project lists the various hits of BTS, where you can listen to them for fre
 
 # Code Style
 
-1.HTML
-2.CSS
-3.Javascript
+1. HTML
+2. CSS
+3. Javascript
 
 # Screenshots
 ![Screenshot of the website's layout](https://github.com/Chinmayi9703/ARMYfy/blob/main/images/Screenshot.png)
@@ -32,4 +32,4 @@ This project lists the various hits of BTS, where you can listen to them for fre
 
 # Credits
 
-/https://www.youtube.com/watch?v=ANzPM5-lwXc&list=PLu0W_9lII9aiQiOwthuSvinxoflmhRxM3&index=2
+https://www.youtube.com/watch?v=ANzPM5-lwXc&list=PLu0W_9lII9aiQiOwthuSvinxoflmhRxM3&index=2
