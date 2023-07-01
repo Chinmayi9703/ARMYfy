@@ -21,3 +21,15 @@ This project lists the various hits of BTS, where you can listen to them for fre
 
 # Screenshots
 ![Screenshot of the website's layout](https://github.com/Chinmayi9703/ARMYfy/blob/main/images/Screenshot.png)
+
+# Features
+
+- User-Friendly
+
+# How to use?
+
+# Contribute
+
+# Credits
+
+/https://www.youtube.com/watch?v=ANzPM5-lwXc&list=PLu0W_9lII9aiQiOwthuSvinxoflmhRxM3&index=2
